@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi 👋, I'm Shahma
 
-<!--
-**Shahma333/Shahma333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech IT Graduate  
+💻 Full Stack Developer (MERN)  
+🚀 Interested in React, Node.js & Django  
+📍 Palakkad, Kerala  
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- Frontend: React, Bootstrap
+- Backend: Node.js, Express, Django
+- Database: MongoDB, PostgreSQL
+- Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact Me
+- Email: shahmak333@gmail.com
+- LinkedIn: https://www.linkedin.com/in/shahma-k-a4424220b
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
